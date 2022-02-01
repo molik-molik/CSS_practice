@@ -1,0 +1,13 @@
+hr {
+  border: none;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  font-family: sans-serif;
+}
